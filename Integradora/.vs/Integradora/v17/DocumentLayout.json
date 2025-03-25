@@ -1,38 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\inventario\\menuinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\inventario\\menuinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\inventario\\menuinventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\inventario\\menuinventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\objetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\objetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\inventario\\menuinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\inventario\\menuinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\integradora\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\integradora\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\usuario\\documents\\github\\3erintento2docuatri\\integradora\\integradora\\objetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\objetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\usuario\\documents\\github\\3erintento2docuatri\\integradora\\integradora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\usuario\\documents\\github\\3erintento2docuatri\\integradora\\integradora\\menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\usuario\\documents\\github\\3erintento2docuatri\\integradora\\integradora\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,113 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MenuPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "Integradora\\MenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.cs",
               "RelativeToolTip": "Integradora\\MenuPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T19:54:02.597Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\Integradora\\Program.cs",
+              "RelativeDocumentMoniker": "Integradora\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\Integradora\\Program.cs",
+              "RelativeToolTip": "Integradora\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:29:56.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Objetos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\Integradora\\Objetos.cs",
+              "RelativeDocumentMoniker": "Integradora\\Objetos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\Integradora\\Objetos.cs",
+              "RelativeToolTip": "Integradora\\Objetos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:22:56.108Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Objetos.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Objetos.cs",
-              "RelativeDocumentMoniker": "Integradora\\Objetos.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Objetos.cs",
-              "RelativeToolTip": "Integradora\\Objetos.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwCMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T20:38:52.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuInventario.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario.cs",
-              "RelativeDocumentMoniker": "Integradora\\Inventario\\MenuInventario.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario.cs",
-              "RelativeToolTip": "Integradora\\Inventario\\MenuInventario.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T20:32:49.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuInventario.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario.Designer.cs",
-              "RelativeDocumentMoniker": "Integradora\\Inventario\\MenuInventario.Designer.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario.Designer.cs",
-              "RelativeToolTip": "Integradora\\Inventario\\MenuInventario.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T20:32:40.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuInventario.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario.cs",
-              "RelativeDocumentMoniker": "Integradora\\Inventario\\MenuInventario.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario.cs [Design]",
-              "RelativeToolTip": "Integradora\\Inventario\\MenuInventario.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T20:32:30.846Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Program.cs",
-              "RelativeDocumentMoniker": "Integradora\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Program.cs",
-              "RelativeToolTip": "Integradora\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T19:29:56.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "MenuPrincipal.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.Designer.cs",
               "RelativeDocumentMoniker": "Integradora\\MenuPrincipal.Designer.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.Designer.cs",
               "RelativeToolTip": "Integradora\\MenuPrincipal.Designer.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAgwD4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T19:20:44.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.cs",
+              "DocumentIndex": 0,
+              "Title": "MenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "Integradora\\MenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.cs [Design]",
-              "RelativeToolTip": "Integradora\\MenuPrincipal.cs [Design]",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\3erIntento2doCuatri\\Integradora\\Integradora\\MenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Integradora\\MenuPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T19:20:21.327Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

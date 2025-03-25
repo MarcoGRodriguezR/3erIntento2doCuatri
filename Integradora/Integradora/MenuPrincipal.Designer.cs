@@ -34,9 +34,10 @@
             // 
             // Cerrar
             // 
-            Cerrar.Location = new Point(89, 83);
+            Cerrar.Location = new Point(102, 111);
+            Cerrar.Margin = new Padding(3, 4, 3, 4);
             Cerrar.Name = "Cerrar";
-            Cerrar.Size = new Size(75, 23);
+            Cerrar.Size = new Size(86, 31);
             Cerrar.TabIndex = 0;
             Cerrar.Text = "Cerrar";
             Cerrar.UseVisualStyleBackColor = true;
@@ -54,11 +55,12 @@
             // 
             // MenuPrincipal
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(275, 118);
             Controls.Add(Inventario);
             Controls.Add(Cerrar);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "MenuPrincipal";
             Text = "MenuPrincipal";
             ResumeLayout(false);
