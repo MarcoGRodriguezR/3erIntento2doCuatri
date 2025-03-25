@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Integradora;
+
+/// <summary>
+/// Lista de <see cref="Elemento"/>
+/// </summary>
+public class Seccion
+{
+    public List<Elemento> Elementos;
+}
+
+/// <summary>
+/// El elemento de una <see cref="Seccion"/>, por ejemplo hamburguesa, tv, celular, etc
+/// </summary>
+/// <param name="nombre">Nombre del producto</param>
+/// <param name="id">ID unica del producto</param>
+/// <param name="unidades">Unidades en existencia</param>
+/// <param name="ventas">Ventas totales</param>
+public class Elemento(string nombre, int id, int unidades, int ventas)
+{
+    public string Nombre = nombre;
+    public int ID = id;
+    public int Unidades = unidades;
+    public int Ventas = ventas;
+
+    public override string ToString() =>
+        $"{Unidades} unidad(es) \n" +
+        $"{Ventas} ventas";
+}
