@@ -5,6 +5,7 @@ namespace Integradora
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
+        /// hola
         [STAThread]
         static void Main()
         {
