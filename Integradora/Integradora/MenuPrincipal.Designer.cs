@@ -28,18 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
+            Cerrar = new Button();
             SuspendLayout();
+            // 
+            // Cerrar
+            // 
+            Cerrar.Location = new Point(89, 83);
+            Cerrar.Name = "Cerrar";
+            Cerrar.Size = new Size(75, 23);
+            Cerrar.TabIndex = 0;
+            Cerrar.Text = "Cerrar";
+            Cerrar.UseVisualStyleBackColor = true;
+            Cerrar.Click += Cerrar_Click;
             // 
             // MenuPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(487, 277);
+            ClientSize = new Size(275, 118);
+            Controls.Add(Cerrar);
             Name = "MenuPrincipal";
             Text = "MenuPrincipal";
             ResumeLayout(false);
         }
 
         #endregion
+
+        private Button Cerrar;
     }
 }

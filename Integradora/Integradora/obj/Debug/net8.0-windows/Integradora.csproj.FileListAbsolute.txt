@@ -14,3 +14,4 @@ C:\Users\DELL\Documents\Tareas\2-do Cuatrimestre\Integradora\Pruebas\Prueba3\3er
 C:\Users\DELL\Documents\Tareas\2-do Cuatrimestre\Integradora\Pruebas\Prueba3\3erIntento2doCuatri\Integradora\Integradora\obj\Debug\net8.0-windows\Integradora.genruntimeconfig.cache
 C:\Users\DELL\Documents\Tareas\2-do Cuatrimestre\Integradora\Pruebas\Prueba3\3erIntento2doCuatri\Integradora\Integradora\obj\Debug\net8.0-windows\ref\Integradora.dll
 C:\Users\DELL\Documents\Tareas\2-do Cuatrimestre\Integradora\Pruebas\Prueba3\3erIntento2doCuatri\Integradora\Integradora\obj\Debug\net8.0-windows\Integradora.MenuPrincipal.resources
+C:\Users\DELL\Documents\Tareas\2-do Cuatrimestre\Integradora\Pruebas\Prueba3\3erIntento2doCuatri\Integradora\Integradora\obj\Debug\net8.0-windows\Integradora.sourcelink.json
