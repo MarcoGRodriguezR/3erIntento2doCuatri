@@ -31,6 +31,7 @@ public class Elemento(string nombre, int id, int unidades, int ventas)
     public int Ventas = ventas;
 
     public override string ToString() =>
+        $"Nombre: {Nombre} \n" +
         $"{Unidades} unidad(es) \n" +
-        $"{Ventas} ventas";
+        $"{Ventas} ventas \n";
 }

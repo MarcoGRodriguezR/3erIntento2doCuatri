@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             Cerrar = new Button();
+            Inventario = new Button();
             SuspendLayout();
             // 
             // Cerrar
@@ -41,11 +42,22 @@
             Cerrar.UseVisualStyleBackColor = true;
             Cerrar.Click += Cerrar_Click;
             // 
+            // Inventario
+            // 
+            Inventario.Location = new Point(12, 33);
+            Inventario.Name = "Inventario";
+            Inventario.Size = new Size(75, 23);
+            Inventario.TabIndex = 1;
+            Inventario.Text = "Inventario";
+            Inventario.UseVisualStyleBackColor = true;
+            Inventario.Click += Inventario_Click;
+            // 
             // MenuPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(275, 118);
+            Controls.Add(Inventario);
             Controls.Add(Cerrar);
             Name = "MenuPrincipal";
             Text = "MenuPrincipal";
@@ -55,5 +67,6 @@
         #endregion
 
         private Button Cerrar;
+        private Button Inventario;
     }
 }

@@ -1,8 +1,10 @@
+using Integradora.Inventario;
+
 namespace Integradora
 {
     public partial class MenuPrincipal : Form
     {
-        private List<Seccion> Secciones = [];
+        public List<Seccion> Secciones = [];
 
         public MenuPrincipal()
         {
@@ -27,6 +29,11 @@ namespace Integradora
         {
             SetVisibleCore(false);
             Dispose();
+        }
+
+        private void Inventario_Click(object sender, EventArgs e)
+        {
+            MenuInventario menu = new MenuInventario(this);
         }
     }
 }
