@@ -8,10 +8,12 @@ namespace Integradora;
 
 /// <summary>
 /// Lista de <see cref="Elemento"/>
+/// <param name="nombre">Nombre de la seccion</param>
 /// </summary>
-public class Seccion
+public class Seccion(string nombre, Elemento[] elementos)
 {
-    public List<Elemento> Elementos;
+    public string Nombre = nombre;
+    public List<Elemento> Elementos = elementos.ToList();
 }
 
 /// <summary>
