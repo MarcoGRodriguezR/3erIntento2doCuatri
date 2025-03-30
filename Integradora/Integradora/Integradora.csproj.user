@@ -1,7 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Inventario\MenuInventario.cs">
+    <Compile Update="Inventario\AgregarProducto\AgregarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventario\AgregarSeccion\AgregarSeccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventario\EliminarProducto\EliminarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventario\EliminarSeccion\EliminarSeccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventario\MenuInventario\MenuInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventario\ModificarUnidades\ModificarUnidades.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="MenuPrincipal.cs">
