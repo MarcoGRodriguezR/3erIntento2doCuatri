@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\inventario\\eliminarseccion\\eliminarseccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\inventario\\eliminarseccion\\eliminarseccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\inventario\\eliminarproducto\\eliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\inventario\\eliminarproducto\\eliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\inventario\\menuinventario\\menuinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\inventario\\menuinventario\\menuinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -19,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\inventario\\menuinventario\\menuinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\inventario\\menuinventario\\menuinventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\inventario\\menuinventario\\menuinventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\inventario\\modificarunidades\\modificarunidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\inventario\\modificarunidades\\modificarunidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\inventario\\modificarunidades\\modificarunidades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\inventario\\modificarunidades\\modificarunidades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|c:\\users\\dell\\documents\\tareas\\2-do cuatrimestre\\integradora\\pruebas\\prueba3\\3erintento2docuatri\\integradora\\integradora\\inventario\\modificarunidades\\modificarunidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A8B22E-E277-4B2D-8134-218965F9A508}|Integradora\\Integradora.csproj|solutionrelative:integradora\\inventario\\modificarunidades\\modificarunidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModificarUnidades.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.cs",
+              "RelativeDocumentMoniker": "Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.cs",
+              "RelativeToolTip": "Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwv10AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:42:41.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModificarUnidades.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.cs",
+              "RelativeDocumentMoniker": "Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.cs [Design]",
+              "RelativeToolTip": "Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:38:56.751Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EliminarProducto.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\EliminarProducto\\EliminarProducto.cs",
-              "RelativeDocumentMoniker": "Integradora\\Inventario\\EliminarProducto\\EliminarProducto.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\EliminarProducto\\EliminarProducto.cs",
-              "RelativeToolTip": "Integradora\\Inventario\\EliminarProducto\\EliminarProducto.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:36:33.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EliminarSeccion.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\EliminarSeccion\\EliminarSeccion.cs",
-              "RelativeDocumentMoniker": "Integradora\\Inventario\\EliminarSeccion\\EliminarSeccion.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\EliminarSeccion\\EliminarSeccion.cs",
-              "RelativeToolTip": "Integradora\\Inventario\\EliminarSeccion\\EliminarSeccion.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:25:29.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "MenuInventario.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario\\MenuInventario.cs",
               "RelativeDocumentMoniker": "Integradora\\Inventario\\MenuInventario\\MenuInventario.cs",
               "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario\\MenuInventario.cs",
               "RelativeToolTip": "Integradora\\Inventario\\MenuInventario\\MenuInventario.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAswI8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:02:56.165Z",
+              "WhenOpened": "2025-03-31T15:41:53.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MenuInventario.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario\\MenuInventario.cs",
               "RelativeDocumentMoniker": "Integradora\\Inventario\\MenuInventario\\MenuInventario.cs",
               "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario\\MenuInventario.cs [Design]",
               "RelativeToolTip": "Integradora\\Inventario\\MenuInventario\\MenuInventario.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:26:17.425Z",
+              "WhenOpened": "2025-03-31T15:41:05.34Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuInventario.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario\\MenuInventario.Designer.cs",
-              "RelativeDocumentMoniker": "Integradora\\Inventario\\MenuInventario\\MenuInventario.Designer.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\MenuInventario\\MenuInventario.Designer.cs",
-              "RelativeToolTip": "Integradora\\Inventario\\MenuInventario\\MenuInventario.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ModificarUnidades.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.Designer.cs",
+              "RelativeDocumentMoniker": "Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\2-do Cuatrimestre\\Integradora\\Pruebas\\Prueba3\\3erIntento2doCuatri\\Integradora\\Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.Designer.cs",
+              "RelativeToolTip": "Integradora\\Inventario\\ModificarUnidades\\ModificarUnidades.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAowH4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:08:37.545Z",
+              "WhenOpened": "2025-03-31T16:05:25.837Z",
               "EditorCaption": ""
             }
           ]

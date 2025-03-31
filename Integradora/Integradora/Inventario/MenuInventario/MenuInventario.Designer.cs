@@ -104,20 +104,20 @@
             // ModUnidades
             // 
             ModUnidades.Font = new Font("Segoe UI", 12F);
-            ModUnidades.Location = new Point(658, 250);
+            ModUnidades.Location = new Point(504, 78);
             ModUnidades.Name = "ModUnidades";
-            ModUnidades.Size = new Size(106, 54);
+            ModUnidades.Size = new Size(216, 54);
             ModUnidades.TabIndex = 6;
-            ModUnidades.Text = "Modificar \r\nUnidades";
+            ModUnidades.Text = "Modificar \r\nUnidades del Producto Seleccionado";
             ModUnidades.UseVisualStyleBackColor = true;
             ModUnidades.Click += ModUnidades_Click;
             // 
             // AgregarProducto
             // 
             AgregarProducto.Font = new Font("Segoe UI", 12F);
-            AgregarProducto.Location = new Point(504, 78);
+            AgregarProducto.Location = new Point(12, 206);
             AgregarProducto.Name = "AgregarProducto";
-            AgregarProducto.Size = new Size(106, 54);
+            AgregarProducto.Size = new Size(218, 32);
             AgregarProducto.TabIndex = 7;
             AgregarProducto.Text = "Agregar Producto";
             AgregarProducto.UseVisualStyleBackColor = true;
@@ -126,9 +126,9 @@
             // EliminarProducto
             // 
             EliminarProducto.Font = new Font("Segoe UI", 12F);
-            EliminarProducto.Location = new Point(504, 138);
+            EliminarProducto.Location = new Point(236, 206);
             EliminarProducto.Name = "EliminarProducto";
-            EliminarProducto.Size = new Size(106, 54);
+            EliminarProducto.Size = new Size(218, 32);
             EliminarProducto.TabIndex = 8;
             EliminarProducto.Text = "Eliminar Productos";
             EliminarProducto.UseVisualStyleBackColor = true;
@@ -137,9 +137,9 @@
             // AgregarSeccion
             // 
             AgregarSeccion.Font = new Font("Segoe UI", 12F);
-            AgregarSeccion.Location = new Point(616, 78);
+            AgregarSeccion.Location = new Point(12, 244);
             AgregarSeccion.Name = "AgregarSeccion";
-            AgregarSeccion.Size = new Size(106, 54);
+            AgregarSeccion.Size = new Size(218, 32);
             AgregarSeccion.TabIndex = 9;
             AgregarSeccion.Text = "Agregar Seccion";
             AgregarSeccion.UseVisualStyleBackColor = true;
@@ -148,9 +148,9 @@
             // EliminarSecciones
             // 
             EliminarSecciones.Font = new Font("Segoe UI", 12F);
-            EliminarSecciones.Location = new Point(616, 138);
+            EliminarSecciones.Location = new Point(236, 244);
             EliminarSecciones.Name = "EliminarSecciones";
-            EliminarSecciones.Size = new Size(106, 54);
+            EliminarSecciones.Size = new Size(218, 32);
             EliminarSecciones.TabIndex = 10;
             EliminarSecciones.Text = "Eliminar Secciones";
             EliminarSecciones.UseVisualStyleBackColor = true;
@@ -160,7 +160,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 283);
             Controls.Add(EliminarSecciones);
             Controls.Add(AgregarSeccion);
             Controls.Add(EliminarProducto);

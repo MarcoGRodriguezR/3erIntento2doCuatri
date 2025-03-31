@@ -43,7 +43,13 @@ namespace Integradora.Inventario
 
         private void ModUnidades_Click(object sender, EventArgs e)
         {
-            ModificarUnidades mod = new();
+            ModificarUnidades mod = new()
+            {
+                Main = this,
+                Elem = Manager.Secciones[SeccionBox.SelectedIndex].Elementos[ElementoBox.SelectedIndex]
+            };
+
+            mod.Inicializar();
         }
         #endregion
 
